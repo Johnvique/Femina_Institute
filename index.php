@@ -61,7 +61,6 @@
       </li>
     </ul>
     <div class="ml-auto">
-   <div class="ml-auto"><div class="ml-auto">
     <p><a href="www.facebook.com/feminainstitute/" target="_blank" style="color: #01009A" ><i class="fab fa-facebook-f" style="margin-right: 10px"></i></a>
     <a href="www.twitter.com/feminainstitute/" target="_blank" style="color: #00FFFF"><i class="fab fa-twitter" style="margin-right: 10px"></i></a>
     <a href="www.google-plus.com/feminainstitute/" target="_blank" style="color: #990100" ><i class="fab fa-google-plus"></i></a></p>
@@ -342,6 +341,7 @@
             <span style="color: #FFCB99">Google +</span>
             </a>
           </p>
+          
         </ul>
     </div>
     <div class="col-md-4">
