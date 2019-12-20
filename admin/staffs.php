@@ -66,7 +66,7 @@ include 'sidebar.php';
                       ?>
                       <div class="btn alert alert-info alert-dismissable flex-center" role="alert">
                           <button type="button " class="close" data-dismiss="alert" aria-label="close">
-                          Staff <?php echo $name ?> Saved.You can Close this Window.
+                          Staff <?php echo $name ?> Saved You can Close this Window.
                               <span aria-hidden="true">&times;</span>
                           </button>
                       </div>
@@ -239,7 +239,7 @@ include 'sidebar.php';
           </div>
 
           <p class="small text-center text-muted my-5">
-            <em></em>
+            <em>More table examples coming soon...</em>
           </p>
 
         </div>
@@ -249,7 +249,7 @@ include 'sidebar.php';
         <footer class="sticky-footer">
           <div class="container my-auto">
             <div class="copyright text-center my-auto">
-              <span>Copyright © Femina Training Institute 2018</span>
+              <span>Copyright © Your Website 2018</span>
             </div>
           </div>
         </footer>
@@ -278,7 +278,7 @@ include 'sidebar.php';
           <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>
           <div class="modal-footer">
             <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
-            <a class="btn btn-primary" href="index.php">Logout</a>
+            <a class="btn btn-primary" href="login.html">Logout</a>
           </div>
         </div>
       </div>

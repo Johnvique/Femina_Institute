@@ -65,7 +65,7 @@ include 'sidebar.php';
                       ?>
                       <div class="btn alert alert-info alert-dismissable flex-center" role="alert">
                           <button type="button " class="close" data-dismiss="alert" aria-label="close">
-                          <strong>Success</strong> Student <?php echo $name ?> Saved. You can Close this Window.
+                          <strong>Success</strong> Student <?php echo $name ?> Saved You can Close this Window.
                               <span aria-hidden="true">&times;</span>
                           </button>
                       </div>
@@ -128,12 +128,8 @@ include 'sidebar.php';
                       <select name="course" class="form-control"> <!--Supplement an id here instead of using 'text'-->
                         <option value="first" selected>--Select Course--</option> 
                         <option value="Computer Packages">Computer Packages</option>
-                        <option value="Computer Repair & Mentainance">Computer Repair and Mentainance</option>
                         <option value="Accounting(CPA)">Accounting(CPA)</option>
-                        <option value="Mobile Repair">Mobile Repair</option>
-                        <option value="Supply Chain Management(Procurement)">Supply Chain Management</option>
                         <option value="Business Management">Business Management</option>
-                        <option value="Electrical and Electronics">Basic Electrical and Electronics</option>
                         <option value="Youth Mentorship">Youth Mentorship</option>
                       </select>
                   </div>
@@ -247,7 +243,7 @@ include 'sidebar.php';
           </div>
 
           <p class="small text-center text-muted my-5">
-            <em></em>
+            <em>More table examples coming soon...</em>
           </p>
 
         </div>
@@ -257,7 +253,7 @@ include 'sidebar.php';
         <footer class="sticky-footer">
           <div class="container my-auto">
             <div class="copyright text-center my-auto">
-              <span>Copyright © Femina Training Institute 2018</span>
+              <span>Copyright © Your Website 2018</span>
             </div>
           </div>
         </footer>
@@ -305,7 +301,6 @@ include 'sidebar.php';
 
     <!-- Custom scripts for all pages-->
     <script src="js/sb-admin.min.js"></script>
-    <script src="../js/bootbox.js"></script>
 
     <!-- Demo scripts for this page-->
     <script src="js/demo/datatables-demo.js"></script>
@@ -325,7 +320,7 @@ include 'sidebar.php';
        if(result){
          // AJAX Request
          $.ajax({
-           url: 'delete_student.php',
+           url: 'delete_staff.php',
            type: 'POST',
            data: { id:deleteid },
            success: function(response){

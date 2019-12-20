@@ -13,6 +13,6 @@ function delete(){
     mysqli_query($conn,$del)or die(mysqli_error($conn));
     unlink("uploads" . $fileName);
 }
-  $GoTo = "students.php";
+  $GoTo = "student.php";
   header(sprintf("Location: %s",$GoTo));
 ?>

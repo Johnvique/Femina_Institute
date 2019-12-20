@@ -30,8 +30,8 @@
     width: 100%;
     height: 100%;
     z-index: 1;
-    opacity: 0.6;
-    background-image: url('../imgs/8.jpg');
+    opacity: 0.8;
+    background-image: url('../imgs/b.jpg');
     background-repeat: no-repeat;
     background-position: 50% 0;
     -ms-background-size: cover;
@@ -55,7 +55,7 @@ include('nav.php');
   ?>
 
 <div class="my-container">
-    <h1 style="color: #000000">Basic Electricals and Electronics</h1>
+    <h1 style="color: #000000">Basic Electric and Electronics</h1>
 </div>
 <main>
     <div class="container">
@@ -107,17 +107,23 @@ include('nav.php');
             <span style="color: #FFCB99"> Twitter</span>
             </a>
           </p><br>
-          <p class="fab fa-google-plus">
-            <a href="www.google-plus.com/feminainstitute/" class="text-green">
-            <span style="color: #FFCB99">Google +</span>
+          <p class="fab fa-instagram">
+            <a href="www.instagram.com/feminainstitute/" class="text-green">
+            <span style="color: #FFCB99">Instagram</span>
             </a>
-          </p>        </ul>
+          </p><br>
+          <p class="fab fa-whatsapp">
+            <a href="www.whatsapp.com/0722953886/" class="text-green">
+            <span style="color: #FFCB99">Whatsapp</span>
+            </a>
+          </p>
+        </ul>
     </div>
     <div class="col-md-4">
       <h5>Talk Us</h5>
       <hr class="bg-white">
       <ul>
-        <p class="fa fa-globe-africa text-white">
+        <p class="fa fa-envelope text-white">
           <span style="color: #000000">
           Femina Training Institute,<br>
           P.O BOX,70-60602,<br>

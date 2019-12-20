@@ -55,7 +55,7 @@ include('nav.php');
   ?>
 
 <div class="my-container">
-    <h1 style="color: #000000">Accounting Course.<br>(CPA-Certified Public Accountants and CPS-Certified Public Secretarials)</h1>
+    <h1 style="color: #000000">Accounting-CPA and CPS</h1>
 </div>
 <main>
     <div class="container">
@@ -64,7 +64,7 @@ include('nav.php');
                 <h4 class="text-center">
                     Femina fact about Accounting Course  
                 </h4>
-                <p class="text-center" style="margin-right: 1em">If you decide to study a Diploma of Accounting, you probably won’t have to wait long to start working. Jobs in accounting are always in demand and the skills you learn through studying are transferable and can be applied to many other disciplines.If you’re thinking of studying accounting,then Femina Training Institute has a great range of certificates and diplomas to choose from,so go ahead and contact us today.<p>
+                <p class="text-center" style="margin-right: 1em">If you decide to study a Diploma of Accounting, you probably won’t have to wait long to start working. Jobs in accounting are always in demand and the skills you learn through studying are transferable and can be applied to many other disciplines.If you’re thinking of studying accounting.Femina Training Institute has a great range of certificates and diplomas to choose from,so go ahead and contact us today.<p>
                 <p class="text-center"  style="margin-right: 1em">When studying accounting you will acquire knowledge about the laws that govern business, typical business administration schemes, the ethics of accountancy,statistics,and accounting theory.You’ll be taught how to prepare the key documents that your job will involve, including business proposals,financial statements and tax returns.
                 You will also have subjects that overlap with other finance-based courses.You will cover areas such as quantitative analytics and mathematics.</p>
             </div>
@@ -104,9 +104,14 @@ include('nav.php');
             <span style="color: #FFCB99"> Twitter</span>
             </a>
           </p><br>
-          <p class="fab fa-google-plus">
-            <a href="www.google-plus.com/feminainstitute/" class="text-green">
-            <span style="color: #FFCB99">Google +</span>
+          <p class="fab fa-instagram">
+            <a href="www.instagram.com/feminainstitute/" class="text-green">
+            <span style="color: #FFCB99">Instagram</span>
+            </a>
+          </p><br>
+          <p class="fab fa-whatsapp">
+            <a href="www.whatsapp.com/0722953886/" class="text-green">
+            <span style="color: #FFCB99">Whatsapp</span>
             </a>
           </p>
         </ul>
@@ -115,7 +120,7 @@ include('nav.php');
       <h5>Talk Us</h5>
       <hr class="bg-white">
       <ul>
-        <p class="fa fa-globe-africa text-white">
+        <p class="fa fa-envelope text-white">
           <span style="color: #000000">
           Femina Training Institute,<br>
           P.O BOX,70-60602,<br>

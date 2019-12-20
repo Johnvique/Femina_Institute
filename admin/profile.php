@@ -52,7 +52,7 @@ include 'sidebar.php';
                $move = move_uploaded_file($tmp,$folder_location);
                 
                if ($move) {
-                  $name = $_POST['file'];
+                  $name = $_POST['name'];
                    $qry = "INSERT INTO `downloads`(`name`, `file`) VALUES ('$name','$file_name')";
                    if (mysqli_query($conn,$qry)or die(mysqli_error($conn))) {
                       ?>
@@ -127,7 +127,7 @@ include 'sidebar.php';
         <footer class="sticky-footer">
           <div class="container my-auto">
             <div class="copyright text-center my-auto">
-              <span>Copyright © Femina Training Institute 2018</span>
+              <span>Copyright © Your Website 2018</span>
             </div>
           </div>
         </footer>
@@ -156,7 +156,7 @@ include 'sidebar.php';
           <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>
           <div class="modal-footer">
             <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
-            <a class="btn btn-primary" href="index.php">Logout</a>
+            <a class="btn btn-primary" href="login.html">Logout</a>
           </div>
         </div>
       </div>

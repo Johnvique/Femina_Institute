@@ -21,8 +21,8 @@
 </head>
 <body >
 <nav class="navbar navbar-expand-lg navbar-light bg-info ">
-  <em><a class="navbar-brand  text-white" href="#">
-  <h2 style="font-weight:bold; class="text-center"><span style="color: #FFCB99">Femina</span> Training <br>Institute</span></h2></a></em>
+  <a class="navbar-brand  text-white" href="#">
+  <h3 style="font-weight:bold; class="text-center"><span style="color: #FFCB99">FEMINA</span> TRAINING <br>INSTITUTE</span></h3></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -35,18 +35,16 @@
         <a class="nav-link text-white" style="" href="about.html">About Us</a>
       </li>
       <li class="nav-item dropdown">
-           <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Courses
-          </a>
+        </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="courses/packages.php">Computer Packages</a>
-               <a class="dropdown-item" href="courses/repair.php">Computer Repair & Maintenance</a>
-               <a class="dropdown-item" href="courses/mobile.php">Mobile handset and Telephone Repair</a>
-               <a class="dropdown-item" href="courses/procurement.php">Supply Chain Management(Procurement)</a>
-              <a class="dropdown-item" href="courses/account.php">Accounting(CPA)</a>
-               <a class="dropdown-item" href="courses/business.php">Business Management</a>
-              <a class="dropdown-item" href="courses/youth.php">Youth Mentorship</a>
-               <a class="dropdown-item" href="courses/electric.php">Basic Electrical And Electronic </a>
+          <a class="dropdown-item" href="courses/packages.php">Computer Packages</a>
+          <a class="dropdown-item" href="courses/repair.php">Computer Repair & Maintenance</a>
+          <a class="dropdown-item" href="courses/account.php">Accounting(CPA)</a>
+          <a class="dropdown-item" href="courses/business.php">Business Management</a>
+          <a class="dropdown-item" href="courses/youth.php">Youth Mentorship</a>
+          <a class="dropdown-item" href="courses/electric.php">Basic Electrical And Electronic </a>
         </div>
       </li>
       <li class="nav-item">
@@ -61,11 +59,10 @@
       </li>
     </ul>
     <div class="ml-auto">
-    <p><a href="www.facebook.com/feminainstitute/" target="_blank" style="color: #01009A" ><i class="fab fa-facebook-f" style="margin-right: 10px"></i></a>
-    <a href="www.twitter.com/feminainstitute/" target="_blank" style="color: #00FFFF"><i class="fab fa-twitter" style="margin-right: 10px"></i></a>
-    <a href="www.google-plus.com/feminainstitute/" target="_blank" style="color: #990100" ><i class="fab fa-google-plus"></i></a></p>
+    <p><a href="www.facebook.com/feminainstitute" style="color: #030099" ><i class="fab fa-facebook-f" style="margin-right: 10px"></i></a>
+    <a href="www.twitter.com/feminainstitute" style="color: #030099"><i class="fab fa-twitter" style="margin-right: 10px"></i></a>
+    <a href="www.whatsapp.com/0722953886" style="color: #009834"><i class="fab fa-whatsapp"></i></a></p>
         </div>
-    </div>
   </div>
 </nav>
 <section>
@@ -79,54 +76,42 @@
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img class="d-block w-100 img-fluid" style="height:500px;" src="imgs/y3.jpg" alt="First slide">
-        <div class="carousel-caption d-none d-md-block" style="background-color: black;opacity:0.7 ">
-          <h4 style="color: #FECCCD">Welcome to Femina Training Institute!!!</h4>
-          <p><strong>Femina Institute is a training Institution located in Meru County,Tigania West sub-county,Kianjai Center,Cape Corner along the Livestock Market Road.We offer Basic and advanced Computer Courses,Electrical and Electronic Engineerng,Business and Accounting Skills,Youth Mentroship and some Basic Secretarial Services.This is the best place to make your dreams comes true.</strong></p>
+        <img class="d-block w-100 img-fluid" style="height:500px;" src="imgs/3.jpg" alt="First slide">
+        <div class="carousel-caption d-none d-md-block" style="background-color: black;opacity:0.5 ">
+          <h4 style="color: #FECCCD">Femina Training Institute</h4>
+          <p><strong>Welcome to Femina Training Institute a learning Institution located at Meru County,Kianjai Center,Cape Corner along the Livestock market.We offer Basic and advanced Computer Courses,Electrical and Electronic Engineerng,Business and Accounting Skills,Youth Mentroship and some Basic Secretarial Services.This is the best place to make your dreams comes true</strong></p>
         </div>
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="imgs/adult.jpg" style="height:500px;"  alt="Second slide">
-        <div class="carousel-caption d-none d-md-block" style="background-color: black;opacity:0.7 ">
-          <h4 style="color: #FECCCD">Computer Training and Literacy Course</h4>
-          <p><strong>Femina Training Institute works in collaboration with Karma Training Institute in Isiolo,offering Computer Training Program to corporates and students nationwide.We offer a wide range of IT and business certifications with both full-time and part-time classes for everyone's convenience.We have highly qualified, organised, highly motivated and experienced team who are focused on meeting the high expectations of Kenyan youths and experts who would like to advance their skills in ICT.</strong></p>
+        <img class="d-block w-100" src="imgs/PIX.jpg" style="height:500px;"  alt="Second slide">
+        <div class="carousel-caption d-none d-md-block" style="background-color: black;opacity:0.5 ">
+          <h4 style="color: #FECCCD">Computer Training Services</h4>
+          <p><strong>Femina Training Institute is an accredited institution in Meru County-Kenya,offering Computer Training Program to corporates and students nationwide. 
+         We offer a wide range of IT and business certifications with both full-time and part-time classes for everyone's convenience. 
+         We have highly qualified, organised, highly motivated and experienced team who are focused on meeting the high expectations of East, West and South Africa blocks.</strong></p>
         </div>
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="imgs/biz.jpg" style="height:500px;"  alt="Third slide">
-        <div class="carousel-caption d-none d-md-block" style="background-color: black;opacity:0.7 ">
-          <h4 style="color: #FECCCD">Mobile and Telephone Repair Services</h4>
-          <p><strong>Femina Institute is endowed with reputed service providers which can repair your expensive mobile phone and get it back to 100 percent functionality.Even if your phone malfunctions or there is boot failure or a damage in some parts,our software and hardware experienced and skilled technicians will be able to address the problem.Therefore,keep in touch and enjoy our quality services.</strong></p>
-        </div>
-      </div>
-      <div class="carousel-item">
-        <img class="d-block w-100" src="imgs/14.jpg" style="height:500px;"  alt="Fourth slide">
-        <div class="carousel-caption d-none d-md-block" style="background-color: black;opacity:0.7 ">
+        <img class="d-block w-100" src="imgs/elect.jpg" style="height:500px;"  alt="Third slide">
+        <div class="carousel-caption d-none d-md-block" style="background-color: black;opacity:0.5 ">
           <h4 style="color: #FECCCD">Basic Electrical and Electronic Course</h4>
-          <p><strong>If you have ever been planning of making your dream comes true in sectors related to Electrical Engineering then Femina Training Institute is the better place to be!.We offer both basic Electrical Skills and advanced Electrical courses at a pocket friendly price.</strong></p>
+          <p><strong>If you have ever been planning of making your dream comes true in sectors related to Electrical Engineering then Femina Training Institute is the better place to be!.We offer both basic Electrical Skills and advanced Electrical courses at a pocket friendly.</strong></p>
         </div>
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="imgs/book.jpg" style="height:500px;"  alt="Fifth slide">
-        <div class="carousel-caption d-none d-md-block" style="background-color: black;opacity:0.7 ">
-          <h4 style="color: #FECCCD">Supply Chain Management(Procurement)</h4>
-          <p><strong>Our aim is to develop procurement and supply chain professionals who can take the skills they develop on our programme and make a significant difference in the marketplace.Many of our faculty are regarded as leading experts in this area.</strong></p>
-        </div>
-      </div>
-      <div class="carousel-item">
-        <img class="d-block w-100" src="imgs/1.jpg" style="height:500px;"  alt="Sixth slide">
-        <div class="carousel-caption d-none d-md-block" style="background-color: black;opacity:0.7 ">
+        <img class="d-block w-100" src="imgs/1.jpg" style="height:500px;"  alt="Fourth slide">
+        <div class="carousel-caption d-none d-md-block" style="background-color: black;opacity:0.5 ">
           <h4 style="color: #FECCCD">Madam Hellen</h4>
-          <p><strong>Meet our humble,God fearing and loving school director with admirable leadership qualities.Madam Hellen has created the friendly and cool environment that has enabled non-teaching staff, teachers and students to make Femina Institute a better place for career mentorship and dream achievement.</strong></p>
+          <p><strong>Meet our humble,God fearing and loving school director with admirable leadership qualities.Madam Hellen has created the friendly and cool environment that has enabled non-teaching staff, teachers and students to make Femina Institute a better place for career mentorship and dream achievement</strong></p>
         </div>
       </div>
     </div>
     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true" style="background-color: #0201FF"></span>
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
       <span class="sr-only">Previous</span>
     </a>
     <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true" style="background-color: #0201FF"></span>
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
       <span class="sr-only">Next</span>
     </a>
 </div>
@@ -152,7 +137,7 @@
           <div class="card">
             <div class="thumbnail" >
               <div class="img-thumbnail">
-              <img src="imgs/fem2.jpg" class="img-fluid float-center" style="height: 209px;margin-left: 110px;" alt="">
+              <img src="imgs/10.png" class="img-fluid float-center" style="height: 209px;margin-left: 110px;" alt="">
               </div>
             </div>
           </div>
@@ -188,13 +173,14 @@
                   <p class="text-muted">Venue : Femina Training Institute</p>
               </div>
             </div>
-<div class="row" style="margin-top:5px;">
+
+            <div class="row" style="margin-top:5px;">
               <div class="col-md-3">
                   <div class="card-body bg-warning" style="border-radius:33%;height: 78px;">
                     <p class="text-white">January 2019</p>
-                </div>
-            </div>
-  <div class="col-md-9">
+                  </div>
+              </div>
+              <div class="col-md-9">
                   <h4>Intake for other courses</h4>
                   <p class="text-muted">Venue : Femina Training Institute</p>
               </div>
@@ -203,9 +189,9 @@
           </div>
           <div class="tab-pane" id="profile" role="tabpanel" aria-labelledby="profile-tab">
             <ul class="list-group">
-              <li class="list-group-item bg-warning text-white" style="margin-top:7px"><a href="downloads.html" class="text-white">Student Registration Form <span class="float-right"><i class="fas fa-download"></i></span></a></li>
-              <li class="list-group-item bg-warning text-white" style="margin-top:7px"><a href="downloads.html" class="text-white">Teachers Recruitment Form <span class="float-right"><i class="fas fa-download"></i></span></a></li>
-              <li class="list-group-item bg-warning text-white" style="margin-top:7px"><a href="downloads.html" class="text-white">Jobs and Tender recruitment Form <span class="float-right"><i class="fas fa-download"></i></span></a></li>
+              <li class="list-group-item bg-warning text-white" style="margin-top:7px"><a href="#" class="text-white">Student Registration Form <span class="float-right"><i class="fas fa-download"></i></span></a></li>
+              <li class="list-group-item bg-warning text-white" style="margin-top:7px"><a href="#" class="text-white">Teachers Recruitment Form <span class="float-right"><i class="fas fa-download"></i></span></a></li>
+              <li class="list-group-item bg-warning text-white" style="margin-top:7px"><a href="#" class="text-white">Jobs and Tender recruitment Form <span class="float-right"><i class="fas fa-download"></i></span></a></li>
               
             </ul>
           </div>
@@ -243,10 +229,7 @@
           
         </div>
     </div>
-    <div class="col-md-6" style="margin-top:2em">
-      <h4>
-            <div class="text-center">Board of Management and Departmental Heads</div>
-            </h4>
+    <div class="col-md-6" style="margin-top:10px">
         <div class="card">
           <div id="coursesIn" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
@@ -256,51 +239,24 @@
             </ol>
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img class="d-block w-100" src="imgs/fem7.jpg" style="height:350px;width: 400px" alt="First slide">
-            <div class="carousel-caption d-none d-md-block">
-               <h5>MADAM HELLEN KAMENCU</h5>
-                <div class="card"><p style="color: #000000"><strong>The School Director and heads the department of Youth Mentorship Programme.</strong></p></div>
+                <img class="d-block w-100" src="imgs/comp.jpg" alt="First slide">
               </div>
-          </div>
               <div class="carousel-item">
-                <img class="d-block w-100" src="imgs/fem1.jpg" style="height:350px;width: 400px" alt="Second slide">
-                <div class="carousel-caption d-none d-md-block">
-               <h5>MR. RICHARD AOKO</h5>
-                <div class="card"><p style="color: #000000"><strong>Head of ICT and Computer Leteracy Education.</strong></p></div>
+                <img class="d-block w-100" src="imgs/2.jpg" alt="Second slide">
               </div>
-          </div>
-          <div class="carousel-item">
-                <img class="d-block w-100" src="imgs/fem8.jpg" style="height:350px;width: 400px" alt="Second slide">
-                <div class="carousel-caption d-none d-md-block">
-               <h5>MR. JOHN KIRUYA</h5>
-                <div class="card"><p style="color: #000000"><strong>Head of Marketing Executive and Procurement Department.</strong></p></div>
-              </div>
-          </div>
               <div class="carousel-item">
-                <img class="d-block w-100" src="imgs/fem5.jpg" style="height:350px;width: 450px" alt="Fourth slide">
-                <div class="carousel-caption d-none d-md-block">
-                  <h5>MADAM NANCY KUNIYA</h5>
-                <div class="card"><p style="color: #000000"><strong>Femina Institute College Administrator.</strong></p></div>
-              </div>
-            </div>
-            <div class="carousel-item">
-                <img class="d-block w-100" src="imgs/john.jpg" style="height:350px;width: 450px" alt="Fifth slide">
-                <div class="carousel-caption d-none d-md-block">
-                  <h5>MR. JOHN VICTOR</h5>
-                <div class="card"><p style="color: #000000"><strong>Head of Computer Software Engineering</strong></p></div>
+                <img class="d-block w-100" src="imgs/courses.jpg" alt="Third slide">
               </div>
             </div>
             <a class="carousel-control-prev" href="#coursesIn" role="button" data-slide="prev">
-              <span class="carousel-control-prev-icon" aria-hidden="true" style="background-color: #01009A"></span>
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
               <span class="sr-only">Previous</span>
             </a>
             <a class="carousel-control-next" href="#coursesIn" role="button" data-slide="next">
-              <span class="carousel-control-next-icon" aria-hidden="true" style="background-color: #01009A"></span>
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
               <span class="sr-only">Next</span>
             </a>
           </div>
-        </div>
-      </div>
           <a href="#" class="float-center btn btn-block btn-warning text-white">View All</a>
         </div>
     </div>
@@ -336,19 +292,23 @@
             <span style="color: #FFCB99"> Twitter</span>
             </a>
           </p><br>
-          <p class="fab fa-google-plus">
-            <a href="www.google-plus.com/feminainstitute/" class="text-green">
-            <span style="color: #FFCB99">Google +</span>
+          <p class="fab fa-instagram">
+            <a href="www.instagram.com/feminainstitute/" class="text-green">
+            <span style="color: #FFCB99">Instagram</span>
+            </a>
+          </p><br>
+          <p class="fab fa-whatsapp">
+            <a href="www.whatsapp.com/0722953886/" class="text-green">
+            <span style="color: #FFCB99">Whatsapp</span>
             </a>
           </p>
-          
         </ul>
     </div>
     <div class="col-md-4">
       <h5>Talk Us</h5>
       <hr class="bg-white">
       <ul>
-        <p class="fa fa-globe-africa text-white">
+        <p class="fa fa-envelope text-white">
           <span style="color: #000000">
           Femina Training Institute,<br>
           P.O BOX,70-60602,<br>

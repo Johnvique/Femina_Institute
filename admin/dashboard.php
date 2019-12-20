@@ -41,9 +41,9 @@
           <!-- Breadcrumbs-->
           <ol class="breadcrumb">
             <li class="breadcrumb-item">
-              <a href="dashboard.php">Femina Institute</a>
+              <a href="#">Dashbord</a>
             </li>
-            <li class="breadcrumb-item active">Admin</li>
+            <li class="breadcrumb-item active">Overview</li>
           </ol>
 
           <!-- Icon Cards-->
@@ -145,6 +145,7 @@
                       <th>National ID</th>
                       <th>Gender</th>
                       <th>Joined At</th>
+                      <th>Action</th>
                     </tr>
                   </thead>
                   <tfoot>
@@ -155,6 +156,7 @@
                       <th>National ID</th>
                       <th>Gender</th>
                       <th>Joined At</th>
+                      <th>Action</th>
                     </tr>
                   </tfoot>
                   <tbody>
@@ -171,7 +173,10 @@
                       <td><?php echo $result['no_id'] ?></td>
                       <td><?php echo $result['gender'] ?></td>
                       <td><?php echo date("M jS, Y",strtotime($result['timestamp'])); ?></td>
-                      
+                      <td>
+                      <button class="btn btn-sm btn-success"><i class="fa fa-edit"></i></button>
+                      <button class="btn btn-sm btn-danger"><i class="fa fa-trash"></i></button>
+                      </td>
                     </tr>
                  <?php }
                   ?>
@@ -190,7 +195,7 @@
         <footer class="sticky-footer">
           <div class="container my-auto">
             <div class="copyright text-center my-auto">
-              <span>Copyright © Femina Training Institute 2018</span>
+              <span>Copyright © Your Website 2018</span>
             </div>
           </div>
         </footer>

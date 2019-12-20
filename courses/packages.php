@@ -31,7 +31,7 @@
     height: 100%;
     z-index: 1;
     opacity: 0.9;
-    background-image: url('../imgs/1g.jpg');
+    background-image: url('../imgs/images.jpg');
     background-repeat: no-repeat;
     background-position: 50% 0;
     -ms-background-size: cover;
@@ -50,7 +50,6 @@
    </style>
 </head>
 <body>
-  
   <?php
 include('nav.php');
   ?>
@@ -123,9 +122,14 @@ include('nav.php');
             <span style="color: #FFCB99"> Twitter</span>
             </a>
           </p><br>
-          <p class="fab fa-google-plus">
-            <a href="www.google-plus.com/feminainstitute/" class="text-green">
-            <span style="color: #FFCB99">Google +</span>
+          <p class="fab fa-instagram">
+            <a href="www.instagram.com/feminainstitute/" class="text-green">
+            <span style="color: #FFCB99">Instagram</span>
+            </a>
+          </p><br>
+          <p class="fab fa-whatsapp">
+            <a href="www.whatsapp.com/0722953886/" class="text-green">
+            <span style="color: #FFCB99">Whatsapp</span>
             </a>
           </p>
         </ul>
@@ -134,7 +138,7 @@ include('nav.php');
       <h5>Talk Us</h5>
       <hr class="bg-white">
       <ul>
-        <p class="fa fa-globe-africa text-white">
+        <p class="fa fa-envelope text-white">
           <span style="color: #000000">
           Femina Training Institute,<br>
           P.O BOX,70-60602,<br>
